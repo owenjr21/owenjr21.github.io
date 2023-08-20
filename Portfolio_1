@@ -1,3 +1,5 @@
 cd Documents // navigates from home to "Documents" folder
 mkdir portfolios // creates "portfolios" folder inside Documents
 cd portfolios // navigates inside the created folder "portfolios"
+
+git clone https://github.com/owenjr21/owenjr21.github.io.git
