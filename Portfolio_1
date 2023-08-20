@@ -3,3 +3,8 @@ mkdir portfolios // creates "portfolios" folder inside Documents
 cd portfolios // navigates inside the created folder "portfolios"
 
 git clone https://github.com/owenjr21/owenjr21.github.io.git
+
+cd owenjr21.github.io
+git add . // alerts git of the updates we need to add to our repo
+git commit -m “Initial Commit” // saves the updates added above
+git push// pushes updates we made to the remote repo
